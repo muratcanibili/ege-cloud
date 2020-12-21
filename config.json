@@ -3,7 +3,7 @@
         "host": "nitriculusdb.postgres.database.azure.com",
         "dbname": "postgres",
         "user": "nitricula",
-        "password": "+m3271669*",
+        "password": "+m3271669",
         "ssl": "require"
     }
 }
